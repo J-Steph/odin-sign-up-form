@@ -76,7 +76,14 @@ input {
     box-sizing: border-box;
     border: 1px solid #7679A1;
     border-radius: 6px;
-    width: 75%
+    width: 75%;
+    background-color: #FCFCF9;
+    
+}
+
+label {
+    font-size: 0.8rem;
+    letter-spacing: 2px;
 }
 
 .form-footer {
@@ -94,6 +101,7 @@ input {
     color: black;
     padding: 15px 32px;
     margin-bottom: 16px;
+    margin-left:32px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -102,6 +110,8 @@ input {
 
   .footer-text {
     font-size: 1rem;
+    padding-top: 32px;
+    margin-left:32px;
   }
 
 
